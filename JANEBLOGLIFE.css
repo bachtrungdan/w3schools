@@ -1,0 +1,247 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container0{
+    background-color:black;
+    width: 100%;
+    display: flex;
+}
+.container0 a{
+    color:white;
+    padding: 8px 16px;
+    line-height: 40px;
+}
+.container0 a:hover{
+    background-color: #ccc;
+}
+.fa-solid{
+    float: right !important;
+}
+.container2{
+    text-align: center;
+    padding: 48px 16px ;
+}
+.container2 h1{
+    font-size: 48px ;
+    /* font-family: "Oswald"; */
+}
+.container2 span{
+    background-color: black;
+    color: white;
+}
+.container3{
+    position: relative;
+}
+.container3-1 {
+    position: absolute;
+    top: 30px;
+    left:20px;
+    color: white;
+}
+.container3-1 button{
+    padding: 12px 24px ;
+}
+.container3-1 h1{
+  font-size: 4.5rem;
+  letter-spacing: 4px;
+  font-family: "Segoe UI",Arial,sans-serif;
+  /* font-family: "Oswald"; */
+}
+img{
+    width: 100%;
+    
+}
+.img2 p{
+    padding: 12px 0px;
+}
+.container4-0{
+    display: flex;
+    background: #f1f1f1;
+}
+.container4{
+    width: 65%;
+    margin: 16px;
+    margin: 16px;
+    padding: 12px 24px;
+    background: white;
+}
+.container4-4{
+    margin: 16px;
+}
+.container5-5 h3{
+    margin: 30px 0px ;
+    text-align: center;
+ }
+.container5-5 p{
+   margin: 30px 0px ;
+   text-align: center;
+}
+.img2 p{
+    width: 100%;
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.like{
+    padding: 8px 24px;
+    border: none;
+    background-color: darkgray;
+}
+.replies{
+    float: right;
+    padding: 8px 32px;
+    border: none;
+}
+.amber{
+    display: flex;
+}
+.amber img{
+    width: 90px;
+}
+.amber1{
+    margin-left: 50px;
+}
+.container6{
+ 
+}
+.container6-1{
+    background-color: black;
+    color: white;
+    padding: 0.15 16;
+
+}
+.img3{
+    width: 100%;
+}
+
+.container4-4{
+    width: 35%;
+}
+.container6-2{
+
+}
+.container6-2-2{
+    
+    color: white;
+    background-color:black;
+}
+.container6-2-2 h4{
+    font-family: "Oswald";
+    font-size: 20px;
+    padding: 8px 16px
+}
+.container6-3{
+    list-style: none;
+}
+.container6-3 ul li{
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+}
+.container6-3 ul li img{ 
+ width:50px;
+}
+.container6-3 ul li span{
+    float:right;
+}
+.container6-4{
+    background-color: #f1f1f1;
+    color:black;
+    height: 200px;
+    padding: 0.01em 16px;
+    text-align: center;
+    line-height: 200px;
+}
+   
+.container6-5{
+    background-color:white;
+    color: black;
+    padding: 0.01em 16px;
+}
+.container6-5 span{
+   background-color: #f1f1f1;
+ padding: 0px 8px;
+ margin-bottom: 5px !important;
+}
+.container6-6{
+    display: flex;
+}
+.container6-6 img{
+   margin-right: 4px;
+}
+.container6-8 input{
+  width: 100%;
+  padding: 20px;
+}
+.container6-8 button{
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+  }
+  .container6-8 button:hover{
+    background-color: #ccc;
+    color: black;
+  }
+  .container-bottom{
+    width: 100%;
+    height: 100px;
+    background-color: #616161;
+  }
+  .modal-content{
+    margin: 0 auto;
+  }
+  .modal-content p{
+    padding: 20px;
+    font-family: "Open Sans";
+    font-size: 15px;
+    line-height: 1.5rem;
+  }
+  .modal-body input{
+    width: 100%;
+    padding: 8px;
+  }
+  .modal-footer button{
+    width: 100%;
+    padding: 8px;
+    background-color:red;
+    color: white;
+    border-radius: 0;
+    border: none;
+    cursor: alias;
+  }
+  .card-body{
+    border: none !important;
+   
+  }
+  .container-bottom{
+    color: white;
+    
+  }
+  .container-bottom-1{
+    padding: 32px;
+
+  }
+  .container-bottom a{
+    padding: 10px;
+    background:black ;
+    color: white;
+    margin-bottom:16px;
+    text-decoration: none;
+  }
+  .container-bottom a:hover{
+    background: #ccc;
+    color: black;
+  }
+  .container-bottom p{
+    margin: 16px 0px;
+  }
+  .contenter-0{
+    max-width: 100px ;
+    background: red;
+    color: white;
+    cursor: pointer;
+  }
